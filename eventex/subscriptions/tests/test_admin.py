@@ -35,4 +35,4 @@ class SubscriptionModelAdminTest(TestCase):
 
         SubscriptionModelAdmin.message_user = old_message_user
 
-        return  mock
+        return mock
